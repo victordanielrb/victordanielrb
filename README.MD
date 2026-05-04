@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Victor , a full-time full-stack developer 👨‍💻 </div>  
-  
+## <div align="center">I'm Victor , a full-time full-stack developer 👨‍💻 </div>  
+  <br/>  
 
 - 🔭 I’m currently working on CFOnline@[DFS](https://github.com/Data-Fintech-Solutions) (soon...)  
   
