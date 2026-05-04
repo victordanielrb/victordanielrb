@@ -67,7 +67,7 @@
 
 </td>
 <td valign="top" width="33%">
- <h1>Studying</h1>  
+ <h3>Studying</h3>  
 <div align="center">  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
