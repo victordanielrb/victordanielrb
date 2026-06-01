@@ -69,10 +69,14 @@
 <br/>  
 
 ### Github Stats  
-<div  align="center">
-<div  align="center"> ![](https://github-readme-stats.shion.dev/api?username=victordanielrb&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> </div>
-<div  align="center"> ![](https://streak-stats.demolab.com/?user=victordanielrb&theme=dark&hide_border=false)<br/> </div>
-<div  align="center"> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=victordanielrb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) </div>
+<div align="center">
+
+  <img src="https://github-readme-stats.shion.dev/api?username=victordanielrb&theme=dark&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=victordanielrb&theme=dark&hide_border=false" /><br/>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=victordanielrb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
